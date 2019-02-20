@@ -1,1 +1,1 @@
-await db.collection('test').insertOne({tester: 'Shanmu'});
+await db.collection('test').insertOne({tester: 'Sree'});
