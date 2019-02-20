@@ -1,1 +1,1 @@
-await db.collection('test').deleteOne({tester: 'Shanmu'});
+await db.collection('test').deleteOne({tester: 'Sree'});
