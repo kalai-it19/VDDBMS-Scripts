@@ -1,2 +1,2 @@
 DELETE FROM Users
-WHERE user_name = 'kalai';
+WHERE user_name = 'Kalai';
